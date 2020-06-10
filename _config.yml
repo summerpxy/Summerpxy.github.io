@@ -30,7 +30,8 @@ twitter_username: summerpxy
 github_username:  summerpxy 
 
 # Build settings
-theme: plainwhite
+#theme: plainwhite
+remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
