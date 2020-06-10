@@ -60,3 +60,9 @@ plainwhite:
   show_excerpts: true
   dark_mode: true
   search: true
+  
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
