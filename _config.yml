@@ -62,6 +62,6 @@ plainwhite:
   sitemap: true
   show_excerpts: true
   dark_mode: true
-  search: true
+  search: false
   
 
