@@ -60,7 +60,7 @@ paginate_path: page:num
 
 plainwhite:
   name: summerpxy
-  tagline: coding,running,thinking
+  tagline: code & run & think
   date_format: "%b %-d, %Y"
   sitemap: true
   show_excerpts: true

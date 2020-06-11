@@ -77,6 +77,23 @@
           </li>
         </a>
         {%- endif -%}
+		{%- if site.plainwhite.social_links.douban -%}
+        <a href="https://www.douban.com/people/{{ site.plainwhite.social_links.douban }}">
+          <li>
+            <i class="icon-douban"></i>
+          </li>
+        </a>
+        {%- endif -%}
+		
+		{%- if site.plainwhite.social_links.zhihu -%}
+        <a href="https://www.zhihu.com/people/{{ site.plainwhite.social_links.zhihu }}">
+          <li>
+            <i class="icon-zhihu">
+            </i>
+          </li>
+        </a>
+        {%- endif -%}
+		
       </ul>
       {%- if site.plainwhite.navigation -%}
       <nav class="navigation">
